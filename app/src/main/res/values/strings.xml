@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SwipeAnimation</string>
+    <string name="swipe_left">Swipe Left</string>
+    <string name="swipe_right">Swipe Right</string>
+    <string name="Single_tap">Single Tap</string>
+    <string name="swipe_or_enter">Either swipe or Enter</string>
+</resources>
